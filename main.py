@@ -2,6 +2,7 @@
 
 num = int(input("Enter the Number: "))
 
+print("Table of", num)
 print(num, "X 1 = ", num * 1)
 print(num, "X 2 = ", num * 2)
 print(num, "X 3 = ", num * 3)
